@@ -19,7 +19,7 @@ I'm Currently Learning React js and react native.
 ![](https://github-profile-trophy.vercel.app/?username=Aakashpuri786&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aakashpuri786&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Aakashpuri786&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aakashpuri786&theme=tokyo-night)
 [![](https://visitcount.itsvg.in/api?id=Aakashpuri786&icon=6&color=8)](https://visitcount.itsvg.in)
