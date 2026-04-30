@@ -15,7 +15,7 @@
 
 ## Hii 👋 I'm <b>Aakash Puri</b><br>
 #### I'm Currently Working on Mobile App Development and Full Stack Development .<br>
-#### I'm Currently Learning React js and react native.
+#### I'm Currently Learning Vue and node.js.
 
 
 ## 🌐 Socials:
