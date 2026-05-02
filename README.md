@@ -14,7 +14,7 @@
 </div>
 
 ## Hii 👋 I'm <b>Aakash Puri</b><br>
-#### I'm Currently Working on Mobile App Development and Full Stack Development .<br>
+#### I'm Currently Working on <b>Website Development and Full Stack Development</b> .<br>
 #### I'm Currently Learning Vue and node.js.
 
 
