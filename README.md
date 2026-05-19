@@ -35,4 +35,4 @@
 ---![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aakashpuree&theme=tokyo-night)
 [![](https://visitcount.itsvg.in/api?id=aakashpuree&icon=6&color=8)](https://visitcount.itsvg.in)
 
-### visit my portfolio: https://aakashpuree-portfolio.vercel.app
+### visit my portfolio: [aakashpuree.com](https://aakashpuree-portfolio.vercel.app)
