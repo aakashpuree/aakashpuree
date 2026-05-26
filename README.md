@@ -27,7 +27,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aakashpuree&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&title=Commits,PullRequest,Repositories,Issues)
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=skydoves&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aakashpuree&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aakashpuree&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
